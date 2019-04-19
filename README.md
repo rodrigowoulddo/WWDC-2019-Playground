@@ -1,6 +1,8 @@
 # The Bacteria Adventure (WWDC 2019)
 WWDC 2019 Scholarship awarded submission
 
+![The Bacteria Adventure](https://raw.githubusercontent.com/rodrigowoulddo/WWDC-2019-The-Bacteria-Adventure/master/Game%20Cover.png)
+
 You can watch the [Youtube Video here](https://www.youtube.com/watch?v=Hurv-P0hw_I).
 
 ## About the game (features / technologies) 
