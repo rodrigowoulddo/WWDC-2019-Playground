@@ -1,7 +1,7 @@
 # The Bacteria Adventure (WWDC 2019)
 WWDC 2019 Scholarship awarded submission
 
-You can watch the [Youtube Video here](https://www.youtube.com/watch?v=Hurv-P0hw_I&t=16s).
+You can watch the [Youtube Video here](https://www.youtube.com/watch?v=Hurv-P0hw_I).
 
 ## About the game (features / technologies) 
 
